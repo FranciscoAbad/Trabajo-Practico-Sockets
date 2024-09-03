@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1725331167 source:c:\users\pabad\documents\projects\tp1-sockets\servidor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<winsock2.h>
+
